@@ -2,10 +2,10 @@
 
 Automated analyses of the official accident data from 2019 of the "Bundesamtes für Statistik"
 **************Functions*************************
-"main.py":
+"analysis_script_injuries_SB.py":
 - Reads "accidentdata.csv" and "Personenkm_Berlin.csv."
 - makes various operations based on this Data
-- Outputs tabluar and graphical analysis results
+- Outputs tabular and graphical analysis results
 
 ********************Data***************************
 
